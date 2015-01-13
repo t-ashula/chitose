@@ -1,6 +1,6 @@
 ikdk
 =======
 
-- [./chitose]
-- [./chizuru]
+- chitose
+- chizuru
 
