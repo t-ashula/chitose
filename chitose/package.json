@@ -1,0 +1,34 @@
+{
+  "name": "chitose",
+  "version": "0.1.0",
+  "private": true,
+  "description": "collecting tool",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t-ashula/ikdk"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t-ashula/ikdk/issues"
+  },
+  "homepage": "https://github.com/t-ashula/ikdk",
+  "dependencies": {
+    "express": "~4.10.6",
+    "body-parser": "~1.10.1",
+    "cookie-parser": "~1.3.3",
+    "morgan": "~1.5.1",
+    "serve-favicon": "~2.2.0",
+    "debug": "~2.1.1",
+    "hbs": "~2.8.0",
+    "less-middleware": "1.0.x"
+  },
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "mocha": "^2.1.0",
+    "supervisor": "^0.6.0"
+  }
+}
